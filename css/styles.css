@@ -2823,6 +2823,10 @@ textarea.form-control-lg {
   color: #198754;
 }
 
+#traveler img {
+  width: 950px;
+  height: auto;
+}
 .valid-tooltip {
   position: absolute;
   top: 100%;
